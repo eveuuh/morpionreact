@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Morpion from './components/index';
+import Morpion from './components/Morpion/index';
 
 function App() {
   return (
